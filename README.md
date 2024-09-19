@@ -1,0 +1,1 @@
+The objective of this project was to recommend the stocks for the client, a HNI to invest in that would provide stable returns over the years.A stock price prediction model was also built for the recommended stocks to see the future trend.
